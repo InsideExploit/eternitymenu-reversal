@@ -42,6 +42,9 @@ void bypass_menu()
     Sleep(4000);
 
     std::cout << "[+] status: " << attach_status << std::endl;
+    
+    Sleep(10000);
+    
 }
 
 int main()
